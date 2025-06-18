@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Hi 👋, I'm John Isaac C. Obusan</h1>
+<h1 align="center"> Hi 👋, I'm John Isaac C. Obusan</h1>
 <h3 align="center">🎨 Multimedia Specialist | UX/UI Designer </h3>
 
 <p align="center">
