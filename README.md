@@ -20,7 +20,13 @@
 
 
 <p align="center">
-  📫 <strong>Email:</strong> <a href="mailto:isaacjohn303003@gmail.com" style="color:#b388ff;">isaacjohn303003@gmail.com</a>
+  📫 <strong>Email:</strong> 
+  <a href="mailto:isaacjohn303003@gmail.com" style="color:#b388ff;">isaacjohn303003@gmail.com</a>
+</p>
+
+<p align="center">
+  🌐 <strong>Facebook Page:</strong> 
+  <a href="https://www.facebook.com/profile.php?id=100081292178266" style="color:#b388ff;" target="_blank">John Isaac Obusan</a>
 </p>
 
 
