@@ -2,14 +2,15 @@
 <h3 align="center" style="color:#b388ff;">🎨 Multimedia Specialist | UX/UI Designer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=isaacobusan&label=Profile%20views&color=6c63ff&style=flat" alt="isaacobusan" />
+  <img src="https://komarev.com/ghpvc/?username=isaacobusan&label=Profile%20views&color=9b59b6&style=flat" alt="isaacobusan" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=isaacobusan&theme=gruvbox&title=MultiLanguage,Commits,Repositories,Stars&margin-w=15&margin-h=15" alt="isaacobusan trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=isaacobusan&theme=dracula&margin-w=15&margin-h=15" alt="isaacobusan trophies" />
   </a>
 </p>
+
 
 ---
 
