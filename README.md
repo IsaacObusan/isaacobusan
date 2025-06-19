@@ -17,22 +17,12 @@
 ### 🌐 Connect With Me
 
 
-<p align="center">
-  <a href="https://linkedin.com/in/isaac obusan" target="_blank" title="Connect on LinkedIn">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" style="margin: 0 10px;" />
-  </a>
-  <a href="https://fb.com/johnisaac.obusan" target="_blank" title="Follow on Facebook">
-    <img src="https://skillicons.dev/icons?i=facebook" height="45" style="margin: 0 10px;" />
-  </a>
-  <a href="https://www.youtube.com/c/@isaacobusan5450" target="_blank" title="Watch on YouTube">
-    <img src="https://skillicons.dev/icons?i=youtube" height="45" style="margin: 0 10px;" />
-  </a>
-</p>
+
 
 <p align="center">
   📫 <strong>Email:</strong> <a href="mailto:isaacjohn303003@gmail.com" style="color:#b388ff;">isaacjohn303003@gmail.com</a>
 </p>
----
+
 
 ### 🧠 Skills & Tools
 
