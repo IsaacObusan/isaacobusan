@@ -26,7 +26,7 @@
 
 <p align="center">
   🌐 <strong>Facebook Page:</strong> 
-  <a href="https://www.facebook.com/profile.php?id=100081292178266" style="color:#b388ff;" target="_blank">John Isaac Obusan</a>
+  <a href="https://www.facebook.com/profile.php?id=100081292178266" style="color:#b388ff;" target="_blank">Facebook Page</a>
 </p>
 
 
