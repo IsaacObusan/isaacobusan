@@ -8,7 +8,8 @@
 
 <p align="center">
   <!-- Replace this with your actual animated GIF header -->
-  <img src="your-animated-heading.gif" alt="Hi I'm John Isaac C. Obusan" width="70%" />
+  <img src="![Top UI_UX Design Works for Inspiration — #3](https://github.com/user-attachments/assets/e4834ed1-fc2e-4f86-8e36-a90b8d89651d)
+" alt="Hi I'm John Isaac C. Obusan" width="70%" />
 </p>
 
 <p align="center">
