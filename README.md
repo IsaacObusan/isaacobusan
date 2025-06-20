@@ -6,15 +6,17 @@
   🎨 Multimedia Specialist &nbsp;|&nbsp; UX/UI Designer
 </h3>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/e4834ed1-fc2e-4f86-8e36-a90b8d89651d" alt="Hi I'm John Isaac C. Obusan" width="70%" />
-</p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=isaacobusan&theme=dracula&margin-w=15&margin-h=15" alt="isaacobusan trophies" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e4834ed1-fc2e-4f86-8e36-a90b8d89651d" alt="Hi I'm John Isaac C. Obusan" width="70%" />
+</p>
+
 
 ---
 
