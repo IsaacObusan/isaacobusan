@@ -1,8 +1,14 @@
-<h1 align="center" style="color:#6c63ff;">👋 Hi, I'm <span style="color:#0d47a1;">John Isaac C. Obusan</span></h1>
-<h3 align="center" style="color:#b388ff;">🎨 Multimedia Specialist | UX/UI Designer</h3>
+<h1 align="center" style="color:#6c63ff; font-weight:bold;">
+  👋 Hi, I'm <span style="color:#0d47a1;">John Isaac C. Obusan</span>
+</h1>
+
+<h3 align="center" style="color:#b388ff; font-weight:normal;">
+  🎨 Multimedia Specialist &nbsp;|&nbsp; UX/UI Designer
+</h3>
 
 <p align="center">
-  <img src="your-animated-heading.gif" alt="Hi I'm John Isaac C. Obusan" />
+  <!-- Replace this with your actual animated GIF header -->
+  <img src="your-animated-heading.gif" alt="Hi I'm John Isaac C. Obusan" width="70%" />
 </p>
 
 <p align="center">
@@ -11,11 +17,9 @@
   </a>
 </p>
 
-
 ---
 
 ### 🌐 Connect With Me
-
 
 ![1749706464692](https://github.com/user-attachments/assets/eddf9dec-8ef6-4660-bfad-84b5037fc525)
 
