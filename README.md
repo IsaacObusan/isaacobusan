@@ -2,7 +2,7 @@
 <h3 align="center" style="color:#b388ff;">🎨 Multimedia Specialist | UX/UI Designer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=isaacobusan&label=Profile%20views&color=9b59b6&style=flat" alt="isaacobusan" />
+  <img src="your-animated-heading.gif" alt="Hi I'm John Isaac C. Obusan" />
 </p>
 
 <p align="center">
